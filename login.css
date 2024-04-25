@@ -1,0 +1,33 @@
+form{
+    padding-left: 35%;
+    paint-order: normal;
+    padding-top: 10%;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 16, 231);
+}
+
+.btn2 {
+    position: relative;
+    display: flex;
+    left: 600px;
+    background-color: blue;
+    top: 70px;
+    
+}
+
+.btn3{
+    position: relative;
+    display: flex;
+    left: 460px;
+    background-color: rgb(0, 89, 255);
+    top: -20px;
+    
+}
+.esqueci{
+    position: relative;
+    left: 700px;
+}
